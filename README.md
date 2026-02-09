@@ -1,4 +1,4 @@
-# MiniShell – Custom Linux Shell in C
+# MiniShell Project in C | Linux Internals, System Calls & Shell Commands
 
 **YouTube Demo:** [https://youtu.be/e7Awr7HD67Q](https://youtu.be/e7Awr7HD67Q)
 
